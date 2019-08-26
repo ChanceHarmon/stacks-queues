@@ -1,12 +1,12 @@
 
 # Stacks and Queues
-<!-- Short summary or background information -->
+Create classes for stack and for queue
 
 ## Challenge
-<!-- Description of the challenge -->
+Each stack and queue class should be able to add and remove a node, following filo for queue and lilo for stacks
 
 ## Approach & Efficiency
-<!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
+I pretty much followed the linked list challenge, just changing the verbage to match what we were trying to do.
 
 ## API
-<!-- Description of each method publicly available to your Stack and Queue-->
+N/A
